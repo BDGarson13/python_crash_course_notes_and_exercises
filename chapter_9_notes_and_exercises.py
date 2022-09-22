@@ -250,3 +250,5 @@ class Car:
             print("You can't roll back an odometer!")
 #This line states that in the event of it being lower, i.e. after Mr Wormwood has taken the opportunity to fiddle with
 #it, the fraudster will be called out!
+
+#Testing for whether the GitHub repository and Pycharm are fully integrated.
