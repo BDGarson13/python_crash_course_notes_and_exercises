@@ -2,7 +2,7 @@
 name = "steve jobs"
 print(name.title())
 
-#The title() term after the variable, name, is categorised as a "method."  Methods are defined as actions that Python is capaable of performing on pieces of data.
+# The title() term after the variable, name, is categorised as a "method."  Methods are defined as actions that Python is capaable of performing on pieces of data.
 #In our case, the title() method causes the first letters of each word in the string to be turned from its lower case into its upper case.
 #The . tells Python to perform the method on the variable name.
 
